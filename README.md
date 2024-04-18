@@ -3,7 +3,7 @@
 This project is a Java game inspired by the classic arcade game, Frogger. This project was made by me as part of my
 university programming course, was intended to show what I learned during the course.
 
-![ezgif com-video-to-gif-converter (2)](https://github.com/Angello-Pomayay/FROGGER_Java/assets/159076658/d719c7b6-569c-404e-a2f2-203415f674cf)
+![gif1](https://github.com/Angello-Pomayay/FROGGER_Java/assets/159076658/d719c7b6-569c-404e-a2f2-203415f674cf)
 
 ## Features
 
@@ -43,3 +43,7 @@ While the game is fully functional, there are several potential areas for improv
 - Adding the second section of the game, where the frog must cross the river by jumping on logs and avoiding crocodiles.
 - Implementing power-ups or other gameplay elements to make the game more diverse. Also adding a bonus level to certain scores.
 - Adding a pause menu or other user interface elements to make the game more user-friendly.
+
+## Screenshots
+<img src="img/scr1.png" width="32%">  <img src="img/scr2.png" width="32%">  <img src="img/scr3.png" width="32%">
+<img src="img/scr4.png" width="32%">  <img src="img/scr5.png" width="32%">  <img src="img/scr6.png" width="32%">
