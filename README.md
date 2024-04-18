@@ -3,6 +3,8 @@
 This project is a Java game inspired by the classic arcade game, Frogger. This project was made by me as part of my
 university programming course, was intended to show what I learned during the course.
 
+![ezgif com-video-to-gif-converter (2)](https://github.com/Angello-Pomayay/FROGGER_Java/assets/159076658/d719c7b6-569c-404e-a2f2-203415f674cf)
+
 ## Features
 
 - **Gameplay**: The game involves a frog that the player must navigate across a busy road to reach a river safety. The player must avoid cars. The cars speed increase while your score gets higher.
