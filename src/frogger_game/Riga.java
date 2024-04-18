@@ -1,4 +1,4 @@
-package com.company;
+package frogger_game;
 
 import java.awt.*;
 import java.io.IOException;
